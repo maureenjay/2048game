@@ -1,0 +1,11 @@
+kiarna,700
+tatiana,600
+ari,528
+mila,500
+mia,421
+sarah,404
+timi,276
+keanu,100
+suna,70
+yui,60
+jim,50
